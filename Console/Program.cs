@@ -12,7 +12,6 @@ namespace Console
     {
         public Program()
         {
-            PrintTitle();
         }
         public static Application Application { get; set; }
 
