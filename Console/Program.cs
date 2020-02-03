@@ -18,7 +18,7 @@ namespace Console
         static void Main(string[] args)
         {
             PrintTitle();
-            System.Console.WriteLine("This a a simple application for Scheduling Flights and Orders by Transport.ly");
+            System.Console.WriteLine("This a simple application for Scheduling Flights and Orders by Transport.ly");
             System.Console.WriteLine("Press Enter to continue...");
             System.Console.Read();
 
