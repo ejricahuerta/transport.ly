@@ -4,7 +4,7 @@ Simple application to load flights and orders (Air-Tech code assestment)
 ### Framework and Libraries 
 
 - .NET Core 3.1 SDK
-- . Figgle
+- Figgle
 
 
 ### Use
