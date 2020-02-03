@@ -2,7 +2,7 @@
 {
     public static class Constant
     {
-        public static string FILE_PATH = @".\\..\\..\\..\\order.json";
+        public static string FILE_PATH = @".\\order.json";
         public static int MAX_ORDER_PER_FLIGHT = 20;
         public static string TORONTO_CODE = "YYZ";
         public static string CALGARY_CODE = "YYC";
